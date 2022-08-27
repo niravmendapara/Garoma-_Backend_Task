@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "630a5d6044e81d5c1f5f1d0b"
+  },
+  "userA": "niravmendapara786@gmail.com",
+  "userB": "garomagmbh@gmail.com",
+  "meetingname": "GAROMA Interview",
+  "starttime": {
+    "$date": {
+      "$numberLong": "1662019200000"
+    }
+  },
+  "endtime": {
+    "$date": {
+      "$numberLong": "1662022800000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630a5da9f0902ac232540ac9"
+  },
+  "userA": "niravmendapara786@gmail.com",
+  "userB": "xyz@gmail.com",
+  "meetingname": "XYZ Interview",
+  "starttime": {
+    "$date": {
+      "$numberLong": "1662030000000"
+    }
+  },
+  "endtime": {
+    "$date": {
+      "$numberLong": "1662033600000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630a5ddbae11053919f1468f"
+  },
+  "userA": "garomagmbh@gmail.com",
+  "userB": "niravmendapara786@gmail.com",
+  "meetingname": "Nirav HR Interview",
+  "starttime": {
+    "$date": {
+      "$numberLong": "1662040800000"
+    }
+  },
+  "endtime": {
+    "$date": {
+      "$numberLong": "1662044400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "630a5e1a0dcaf732ddd6c4dc"
+  },
+  "userA": "garomagmbh@gmail.com",
+  "userB": "xyz@gmail.com",
+  "meetingname": "XYZ HR Interview",
+  "starttime": {
+    "$date": {
+      "$numberLong": "1662026400000"
+    }
+  },
+  "endtime": {
+    "$date": {
+      "$numberLong": "1662030000000"
+    }
+  },
+  "__v": 0
+}]
